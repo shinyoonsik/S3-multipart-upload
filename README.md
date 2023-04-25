@@ -41,7 +41,7 @@
 
 - 기술 스택
   - 
-  - python, FastAPI
+  - python, FastAPI, AWS Lambda, AWS S3, AWS API Gateway
   
 
 - 아키텍처
