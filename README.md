@@ -41,7 +41,7 @@
 
 - 기술 스택
   - 
-  - python
+  - python, FastAPI
   
 
 - 아키텍처
